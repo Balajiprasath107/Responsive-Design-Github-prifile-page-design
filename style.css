@@ -33,7 +33,6 @@ img {
     flex-direction: row;
     align-items: center;
     padding-left: 2vh;
-    border: 2px solid magenta;
 }
 #left{
     display: flex;
@@ -41,7 +40,7 @@ img {
     height: 66vh;
     border-radius: 2rem;
     background-color: rgb(53, 59, 53);
-    border: 2px solid magenta;
+   
 
 }
 #right{
@@ -49,7 +48,7 @@ img {
     gap: 10vh;
     flex-direction: column;
     margin-left: 5rem;
-    border: 2px solid magenta;
+   
 
 }
 .search-box{
@@ -74,7 +73,6 @@ img {
     width: 18vw;
     height: 20vh;
     background-color: rgb(53, 59, 53);
-    border: 2px solid magenta;
     border-radius: 2rem;
 
 
@@ -83,7 +81,6 @@ img {
     width: 66vw;
     height: 15vh;
     background-color: rgb(53, 59, 53);
-    border: 2px solid magenta;
     border-radius: 2rem;
 
 
@@ -101,14 +98,12 @@ img {
         align-items: center;
         gap: 2vh;
         padding-left: 0%;
-        border: 2px solid magenta;
     }
     #left{
         width: 60vw;
         height: 70vh;
         border-radius: 2rem;
         background-color: rgb(53, 59, 53);
-        border: 2px solid magenta;
     
     }
     #right{
@@ -119,7 +114,6 @@ img {
         margin-left: 0%;
         justify-content: center;
         align-items: center;
-        border: 2px solid magenta;
     
     }
     .search-box{
@@ -145,7 +139,6 @@ img {
         width: 45vw;
         height: 45vh;
         background-color: rgb(53, 59, 53);
-        border: 2px solid magenta;
         border-radius: 2rem;
     
     
@@ -154,7 +147,6 @@ img {
         width: 90vw;
         height: 20vh;
         background-color: rgb(53, 59, 53);
-        border: 2px solid magenta;
         border-radius: 2rem;
     }
   
